@@ -1,15 +1,15 @@
 {
-  "name": "watchmeuser",
+  "name": "watchmedesktop",
   "version": "1.0.0",
-  "description": "WatchMe的用户端",
+  "description": "桌面端",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "pushme&atri",
-  "license": "MIT",
+  "author": "pushme",
+  "license": "ISC",
   "devDependencies": {
-    "electron": "^31.0.1"
+    "electron": "^31.0.2"
   }
 }
