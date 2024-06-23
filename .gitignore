@@ -1,2 +1,4 @@
 #忽视node包
-/ElectronApp/node_modules/
+/node_modules/
+/wmnext/node_modules/
+/.idea/
