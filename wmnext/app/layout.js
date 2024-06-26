@@ -13,10 +13,11 @@ const RootLayout = ({children}) => (
     <html lang="zh">
     <head>
         <meta charSet="utf-8"/>
-        <meta name="keywords" content="WatchMe，WatchMeUser"/>
+        <meta name="keywords" content="WatchMe，WatchMeUser，服务器监控，监控"/>
         <meta name="description" content="服务器监控软件"/>
         <meta name="author" content="PushMe"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta httpEquiv="Content-Security-Policy: default-src 'self'"/>
         <title>WatchMe</title>
     </head>
     {/*<body className={inter.className}>*/}

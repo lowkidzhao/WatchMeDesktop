@@ -4,7 +4,7 @@ const path = require("node:path");
 
 const createWindow = () => {
     // 隐藏菜单栏
-    Menu.setApplicationMenu(null)
+    // Menu.setApplicationMenu(null)
     // 定义初始化大小
     const win = new BrowserWindow({
         width: 1100,
